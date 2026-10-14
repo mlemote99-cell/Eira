@@ -1,0 +1,6 @@
+{
+  "name": "My Name Is Era",
+  "description": "Exclusive modern landing page and gallery for Era - featuring curated glamour photography, VIP access, and social profile links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
